@@ -1,0 +1,2 @@
+# discordBOT-ziyukanri
+discordBOTのじゆ管理を利用するにあたってのルールが書かれています。内容をよくお読みになってください。
